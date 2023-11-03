@@ -1,6 +1,6 @@
 # Sign-in  Sign-up
 
-### ** Sign-in and Sign-up page design with a Splash Page and a an Animated Button**
+###  **Simple Sign-in and Sign-up page design in a Dark theme with a Splash Page. The Splash page contains an animated Circular Progress Indicator. The Elevated Buttons used are Animated Buttons.**
 
 ### **Splash Page**
 
